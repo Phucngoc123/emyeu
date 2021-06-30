@@ -1,7 +1,7 @@
 const CONFIG = {
-    introTitle: 'Darling à!',
+    introTitle: 'baby à!',
     introDesc: `Bồ công anh bay khi có gió.
-    Anh chỉ cười khi nơi đó có 🥺`,
+    Anh chỉ cười khi nơi đó có em 🥺`,
     btnIntro: 'khùng đin=))',
     title: 'Thật ra anh biết anh không có gì tốt hết🥺,chỉ được cái là rất yêu bé hoyy👉👈',
     desc: 'Nên là bé đừng có ib nhiều với trai nho "ghen đó"😿 và chỉ yêu mình anh thôi nhé🥺',
